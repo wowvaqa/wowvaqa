@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Łukasz Wawrzyniak, I live in Sosnowiec, Poland. I am 38 years old. Since the age of 16 I am passionate about programming. I have been programming professionally for 2 years. Currently, I develop a project to support processes in the company where I work.
+- 👋 Hi, I’m @Łukasz Wawrzyniak, I live in Sosnowiec and I work in Jaworzno, Poland. I am 38 years old. Since the age of 16 I am passionate about programming. I have been programming professionally for 2 years. Currently, I develop a project to support processes in the company where I work.
 
 - 👀 I’m interested in Java, Java Script, React, Spring Framwork
 - 🌱 I’m currently learning Java Script && React
